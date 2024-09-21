@@ -49,4 +49,4 @@
 | ![](https://avatars.steamstatic.com/7e7fff73339aaf9b10f919a929b7200604fad2e5.jpg) | clearlove       | [76561198838754472](https://steamcommunity.com/profiles/76561198838754472/) | ✅           | 2020-02-26 14:03:10 |          |
 | ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | 1852082954      | [76561198434113944](https://steamcommunity.com/profiles/76561198434113944/) | ✅           | 2018-02-20 01:32:53 |          |
 | ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | 想当赛马娘只跑路不开枪     | [76561199039417237](https://steamcommunity.com/profiles/76561199039417237/) | ✅           | 2022-10-01 06:37:29 |          |
-| ![](https://avatars.steamstatic.com/21a699d237d4fcbc8734d13a44fd09ef013c5895.jpg) | bmw_Lover       | [76561199495996074](https://steamcommunity.com/profiles/76561199495996074/) | ✅           | 2024-09-19 12:30:34 |          |
+| ![](https://avatars.steamstatic.com/21a699d237d4fcbc8734d13a44fd09ef013c5895.jpg) | bmw_Lover       | [76561199495996074](https://steamcommunity.com/profiles/76561199495996074/) | ❌           | 2024-09-19 12:30:34 |          |
